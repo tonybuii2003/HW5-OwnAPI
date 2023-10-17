@@ -10,7 +10,7 @@ Time spent: **3** hours spent in total
 
 **Random Marvel Character Generator** is an android app that **Generate random Marvel character with their relevant infomation**
 
-If I had to describe this project in three (3) emojis, they would be: **:))**
+If I had to describe this project in three (3) emojis, they would be: **:satisfied:	:cowboy_hat_face: :disguised_face**
 
 ## Application Features
 
